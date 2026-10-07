@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20041029//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20041029/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>42351029</Id>
+	<Item Name="PubDate" Type="Date">2026 Jun 25</Item>
+	<Item Name="EPubDate" Type="Date">2026 Jun 25</Item>
+	<Item Name="Source" Type="String">BMC Musculoskelet Disord</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Zhang S</Item>
+		<Item Name="Author" Type="String">Wang H</Item>
+		<Item Name="Author" Type="String">He L</Item>
+		<Item Name="Author" Type="String">Zhang H</Item>
+		<Item Name="Author" Type="String">Zhang R</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Zhang R</Item>
+	<Item Name="Title" Type="String">Effects of electrical stimulation on lower limb function after anterior cruciate ligament reconstruction: a systematic review and network meta-analysis.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100968565</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1471-2474</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">42351029</Item>
+		<Item Name="doi" Type="String">10.1186/s12891-026-10069-8</Item>
+		<Item Name="pii" Type="String">10.1186/s12891-026-10069-8</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s12891-026-10069-8</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2026/04/22 00:00</Item>
+		<Item Name="accepted" Type="Date">2026/06/05 00:00</Item>
+		<Item Name="medline" Type="Date">2026/06/26 04:10</Item>
+		<Item Name="pubmed" Type="Date">2026/06/26 04:10</Item>
+		<Item Name="entrez" Type="Date">2026/06/25 23:56</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">BMC musculoskeletal disorders</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s12891-026-10069-8</Item>
+	<Item Name="SO" Type="String">2026 Jun 25;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>42301400</Id>
+	<Item Name="PubDate" Type="Date">2026 Jun 16</Item>
+	<Item Name="EPubDate" Type="Date">2026 Jun 16</Item>
+	<Item Name="Source" Type="String">Sports Med Open</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Liu C</Item>
+		<Item Name="Author" Type="String">Lu W</Item>
+		<Item Name="Author" Type="String">Liu X</Item>
+		<Item Name="Author" Type="String">Yuan D</Item>
+		<Item Name="Author" Type="String">Hong Z</Item>
+		<Item Name="Author" Type="String">Bi Q</Item>
+		<Item Name="Author" Type="String">Li Y</Item>
+		<Item Name="Author" Type="String">Xiao W</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Xiao W</Item>
+	<Item Name="Title" Type="String">The Influence of Different Autologous Tendons on the Recovery of Knee Muscle Strength Following Anterior Cruciate Ligament Reconstruction: A Systematic Review and Network Meta-analysis.</Item>
+	<Item Name="Volume" Type="String">12</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101662568</Item>
+	<Item Name="ISSN" Type="String">2199-1170</Item>
+	<Item Name="ESSN" Type="String">2198-9761</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">42301400</Item>
+		<Item Name="pmc" Type="String">PMC13272697</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC13272697;</Item>
+		<Item Name="doi" Type="String">10.1186/s40798-026-01043-8</Item>
+		<Item Name="pii" Type="String">10.1186/s40798-026-01043-8</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s40798-026-01043-8</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/03/26 00:00</Item>
+		<Item Name="accepted" Type="Date">2026/05/26 00:00</Item>
+		<Item Name="medline" Type="Date">2026/06/16 13:33</Item>
+		<Item Name="pubmed" Type="Date">2026/06/16 13:32</Item>
+		<Item Name="entrez" Type="Date">2026/06/16 11:07</Item>
+		<Item Name="pmc-release" Type="Date">2026/06/16 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">84</Item>
+	<Item Name="FullJournalName" Type="String">Sports medicine - open</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s40798-026-01043-8</Item>
+	<Item Name="SO" Type="String">2026 Jun 16;12(1)</Item>
+</DocSum>
+
+<DocSum>
+	<Id>42214450</Id>
+	<Item Name="PubDate" Type="Date">2026 May 22</Item>
+	<Item Name="EPubDate" Type="Date">2026 May 22</Item>
+	<Item Name="Source" Type="String">Am J Phys Med Rehabil</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Si X</Item>
+		<Item Name="Author" Type="String">Liu YH</Item>
+		<Item Name="Author" Type="String">Zhou XR</Item>
+		<Item Name="Author" Type="String">Ning SJ</Item>
+		<Item Name="Author" Type="String">Li QB</Item>
+		<Item Name="Author" Type="String">Cheng F</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Cheng F</Item>
+	<Item Name="Title" Type="String">Different Exercise Interventions on Knee Function Recovery After Anterior Cruciate Ligament Reconstruction: A Systematic Review of Network Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8803677</Item>
+	<Item Name="ISSN" Type="String">0894-9115</Item>
+	<Item Name="ESSN" Type="String">1537-7385</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">42214450</Item>
+		<Item Name="doi" Type="String">10.1097/PHM.0000000000003048</Item>
+		<Item Name="pii" Type="String">00002060-990000000-00964</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1097/PHM.0000000000003048</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/07/18 00:00</Item>
+		<Item Name="accepted" Type="Date">2026/04/24 00:00</Item>
+		<Item Name="medline" Type="Date">2026/05/30 00:33</Item>
+		<Item Name="pubmed" Type="Date">2026/05/30 00:33</Item>
+		<Item Name="entrez" Type="Date">2026/05/29 19:23</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">American journal of physical medicine &amp; rehabilitation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1097/PHM.0000000000003048</Item>
+	<Item Name="SO" Type="String">2026 May 22;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41818333</Id>
+	<Item Name="PubDate" Type="Date">2026 Jun 3</Item>
+	<Item Name="EPubDate" Type="Date">2026 Mar 12</Item>
+	<Item Name="Source" Type="String">J Bone Joint Surg Am</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Vosoughi F</Item>
+		<Item Name="Author" Type="String">Younesian S</Item>
+		<Item Name="Author" Type="String">Mousavi SM</Item>
+		<Item Name="Author" Type="String">Shaker F</Item>
+		<Item Name="Author" Type="String">Menbari Oskouie I</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Menbari Oskouie I</Item>
+	<Item Name="Title" Type="String">Comparison of Autograft Types in Anterior Cruciate Ligament Reconstruction: A Systematic Review and Bayesian Network Meta-Analysis of Randomized Clinical Trials.</Item>
+	<Item Name="Volume" Type="String">108</Item>
+	<Item Name="Issue" Type="String">11</Item>
+	<Item Name="Pages" Type="String">822-834</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0014030</Item>
+	<Item Name="ISSN" Type="String">0021-9355</Item>
+	<Item Name="ESSN" Type="String">1535-1386</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41818333</Item>
+		<Item Name="doi" Type="String">10.2106/JBJS.25.01315</Item>
+		<Item Name="pii" Type="String">00004623-990000000-01739</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.2106/JBJS.25.01315</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2026/06/07 13:43</Item>
+		<Item Name="pubmed" Type="Date">2026/03/12 18:53</Item>
+		<Item Name="entrez" Type="Date">2026/03/12 14:04</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Journal of bone and joint surgery. American volume</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.2106/JBJS.25.01315</Item>
+	<Item Name="SO" Type="String">2026 Jun 3;108(11):822-834</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41733058</Id>
+	<Item Name="PubDate" Type="Date">2026 May</Item>
+	<Item Name="EPubDate" Type="Date">2026 Feb 24</Item>
+	<Item Name="Source" Type="String">Knee Surg Sports Traumatol Arthrosc</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Zhao B</Item>
+		<Item Name="Author" Type="String">Zhao W</Item>
+		<Item Name="Author" Type="String">Chen L</Item>
+		<Item Name="Author" Type="String">Wang B</Item>
+		<Item Name="Author" Type="String">Zhang L</Item>
+		<Item Name="Author" Type="String">Cheng A</Item>
+		<Item Name="Author" Type="String">Kang S</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kang S</Item>
+	<Item Name="Title" Type="String">Comparative effectiveness of neuromuscular, virtual reality, proprioceptive, blood flow restriction and conventional training after ACL reconstruction: A network meta-analysis of randomized controlled trials.</Item>
+	<Item Name="Volume" Type="String">34</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">1863-1884</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9314730</Item>
+	<Item Name="ISSN" Type="String">0942-2056</Item>
+	<Item Name="ESSN" Type="String">1433-7347</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41733058</Item>
+		<Item Name="doi" Type="String">10.1002/ksa.70345</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/ksa.70345</Item>
+	<Item Name="History" Type="List">
+		<Item Name="revised" Type="Date">2026/01/12 00:00</Item>
+		<Item Name="received" Type="Date">2025/08/01 00:00</Item>
+		<Item Name="accepted" Type="Date">2026/01/21 00:00</Item>
+		<Item Name="medline" Type="Date">2026/04/28 17:38</Item>
+		<Item Name="pubmed" Type="Date">2026/02/24 18:46</Item>
+		<Item Name="entrez" Type="Date">2026/02/24 06:32</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/ksa.70345</Item>
+	<Item Name="SO" Type="String">2026 May;34(5):1863-1884</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41257834</Id>
+	<Item Name="PubDate" Type="Date">2025 Nov 19</Item>
+	<Item Name="EPubDate" Type="Date">2025 Nov 19</Item>
+	<Item Name="Source" Type="String">BMC Musculoskelet Disord</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Zhu J</Item>
+		<Item Name="Author" Type="String">Yang X</Item>
+		<Item Name="Author" Type="String">Li T</Item>
+		<Item Name="Author" Type="String">Xing W</Item>
+		<Item Name="Author" Type="String">Zhang Z</Item>
+		<Item Name="Author" Type="String">Chen Z</Item>
+		<Item Name="Author" Type="String">Zhu W</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Zhu W</Item>
+	<Item Name="Title" Type="String">Preventive interventions on ACL injury reduction based on the landing error scoring system evaluation tool: a systematic review and network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">26</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">1061</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100968565</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1471-2474</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41257834</Item>
+		<Item Name="pmc" Type="String">PMC12628533</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12628533;</Item>
+		<Item Name="doi" Type="String">10.1186/s12891-025-09290-8</Item>
+		<Item Name="pii" Type="String">10.1186/s12891-025-09290-8</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s12891-025-09290-8</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/06/26 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/10/17 00:00</Item>
+		<Item Name="medline" Type="Date">2026/06/27 04:10</Item>
+		<Item Name="pubmed" Type="Date">2025/11/19 12:28</Item>
+		<Item Name="entrez" Type="Date">2025/11/19 08:51</Item>
+		<Item Name="pmc-release" Type="Date">2025/11/19 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">82</Item>
+	<Item Name="FullJournalName" Type="String">BMC musculoskeletal disorders</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s12891-025-09290-8</Item>
+	<Item Name="SO" Type="String">2025 Nov 19;26(1):1061</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41190954</Id>
+	<Item Name="PubDate" Type="Date">2025 Nov 5</Item>
+	<Item Name="EPubDate" Type="Date">2025 Nov 5</Item>
+	<Item Name="Source" Type="String">Knee Surg Sports Traumatol Arthrosc</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Liu X</Item>
+		<Item Name="Author" Type="String">Li X</Item>
+		<Item Name="Author" Type="String">Li D</Item>
+		<Item Name="Author" Type="String">Fan Z</Item>
+		<Item Name="Author" Type="String">Liu H</Item>
+		<Item Name="Author" Type="String">Liu H</Item>
+		<Item Name="Author" Type="String">Ge Z</Item>
+		<Item Name="Author" Type="String">Zhang J</Item>
+		<Item Name="Author" Type="String">Jiu J</Item>
+		<Item Name="Author" Type="String">Li R</Item>
+		<Item Name="Author" Type="String">Zhuang Z</Item>
+		<Item Name="Author" Type="String">Li S</Item>
+		<Item Name="Author" Type="String">Du G</Item>
+		<Item Name="Author" Type="String">Jia L</Item>
+		<Item Name="Author" Type="String">Ren Y</Item>
+		<Item Name="Author" Type="String">Li JJ</Item>
+		<Item Name="Author" Type="String">Yan L</Item>
+		<Item Name="Author" Type="String">Wang B</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wang B</Item>
+	<Item Name="Title" Type="String">Clinical effects of different remnant-preserving versus standard nonpreserving techniques in anterior cruciate ligament reconstruction: A systematic review and meta-analysis.</Item>
+	<Item Name="Volume" Type="String"></Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9314730</Item>
+	<Item Name="ISSN" Type="String">0942-2056</Item>
+	<Item Name="ESSN" Type="String">1433-7347</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - as supplied by publisher</Item>
+	<Item Name="PubStatus" Type="String">aheadofprint</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41190954</Item>
+		<Item Name="doi" Type="String">10.1002/ksa.70177</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/ksa.70177</Item>
+	<Item Name="History" Type="List">
+		<Item Name="revised" Type="Date">2025/10/07 00:00</Item>
+		<Item Name="received" Type="Date">2025/07/02 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/10/08 00:00</Item>
+		<Item Name="medline" Type="Date">2025/11/05 12:32</Item>
+		<Item Name="pubmed" Type="Date">2025/11/05 12:32</Item>
+		<Item Name="entrez" Type="Date">2025/11/05 10:03</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/ksa.70177</Item>
+	<Item Name="SO" Type="String">2025 Nov 5;</Item>
+</DocSum>
+
+<DocSum>
+	<Id>40953143</Id>
+	<Item Name="PubDate" Type="Date">2025 Nov 5</Item>
+	<Item Name="EPubDate" Type="Date">2025 Sep 15</Item>
+	<Item Name="Source" Type="String">J Bone Joint Surg Am</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Chung K</Item>
+		<Item Name="Author" Type="String">Han JH</Item>
+		<Item Name="Author" Type="String">Jung SH</Item>
+		<Item Name="Author" Type="String">Moon HS</Item>
+		<Item Name="Author" Type="String">Jung M</Item>
+		<Item Name="Author" Type="String">Kim SH</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kim SH</Item>
+	<Item Name="Title" Type="String">Hamstring Tendon Versus Bone-Patellar Tendon-Bone Autograft for ACL Reconstruction with Concurrent Lateral Extra-Articular Procedure: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials.</Item>
+	<Item Name="Volume" Type="String">107</Item>
+	<Item Name="Issue" Type="String">21</Item>
+	<Item Name="Pages" Type="String">2425-2436</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0014030</Item>
+	<Item Name="ISSN" Type="String">0021-9355</Item>
+	<Item Name="ESSN" Type="String">1535-1386</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40953143</Item>
+		<Item Name="doi" Type="String">10.2106/JBJS.25.00068</Item>
+		<Item Name="pii" Type="String">00004623-202511050-00013</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.2106/JBJS.25.00068</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2025/11/05 12:33</Item>
+		<Item Name="pubmed" Type="Date">2025/09/15 18:34</Item>
+		<Item Name="entrez" Type="Date">2025/09/15 14:03</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Journal of bone and joint surgery. American volume</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.2106/JBJS.25.00068</Item>
+	<Item Name="SO" Type="String">2025 Nov 5;107(21):2425-2436</Item>
+</DocSum>
+
+<DocSum>
+	<Id>40665533</Id>
+	<Item Name="PubDate" Type="Date">2025 Oct</Item>
+	<Item Name="EPubDate" Type="Date">2025 Jul 15</Item>
+	<Item Name="Source" Type="String">J Sports Sci</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Lo CS</Item>
+		<Item Name="Author" Type="String">Chen KC</Item>
+		<Item Name="Author" Type="String">Shih JC</Item>
+		<Item Name="Author" Type="String">Cheng B</Item>
+		<Item Name="Author" Type="String">Chao WC</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Chao WC</Item>
+	<Item Name="Title" Type="String">Integrating psychological and physical assessments to obtain optimal return-to-sport outcomes after ACL reconstruction: A systematic review and network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">43</Item>
+	<Item Name="Issue" Type="String">20</Item>
+	<Item Name="Pages" Type="String">2404-2417</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8405364</Item>
+	<Item Name="ISSN" Type="String">0264-0414</Item>
+	<Item Name="ESSN" Type="String">1466-447X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40665533</Item>
+		<Item Name="doi" Type="String">10.1080/02640414.2025.2534224</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1080/02640414.2025.2534224</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2025/09/24 06:29</Item>
+		<Item Name="pubmed" Type="Date">2025/07/16 06:25</Item>
+		<Item Name="entrez" Type="Date">2025/07/16 00:53</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of sports sciences</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1080/02640414.2025.2534224</Item>
+	<Item Name="SO" Type="String">2025 Oct;43(20):2404-2417</Item>
+</DocSum>
+
+<DocSum>
+	<Id>40615833</Id>
+	<Item Name="PubDate" Type="Date">2025 Jul 4</Item>
+	<Item Name="EPubDate" Type="Date">2025 Jul 4</Item>
+	<Item Name="Source" Type="String">BMC Musculoskelet Disord</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Zhong Z</Item>
+		<Item Name="Author" Type="String">Guo W</Item>
+		<Item Name="Author" Type="String">Gu Q</Item>
+		<Item Name="Author" Type="String">Pang T</Item>
+		<Item Name="Author" Type="String">Li L</Item>
+		<Item Name="Author" Type="String">Hao A</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Hao A</Item>
+	<Item Name="Title" Type="String">The impact of exercise therapy on rehabilitation outcomes after anterior cruciate ligament reconstruction: a network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">26</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">632</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">100968565</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1471-2474</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40615833</Item>
+		<Item Name="pmc" Type="String">PMC12231672</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12231672;</Item>
+		<Item Name="doi" Type="String">10.1186/s12891-025-08876-6</Item>
+		<Item Name="pii" Type="String">10.1186/s12891-025-08876-6</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s12891-025-08876-6</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2024/12/01 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/06/09 00:00</Item>
+		<Item Name="medline" Type="Date">2025/07/05 20:45</Item>
+		<Item Name="pubmed" Type="Date">2025/07/05 00:28</Item>
+		<Item Name="entrez" Type="Date">2025/07/04 23:38</Item>
+		<Item Name="pmc-release" Type="Date">2025/07/04 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">88</Item>
+	<Item Name="FullJournalName" Type="String">BMC musculoskeletal disorders</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s12891-025-08876-6</Item>
+	<Item Name="SO" Type="String">2025 Jul 4;26(1):632</Item>
+</DocSum>
+
+<DocSum>
+	<Id>39995993</Id>
+	<Item Name="PubDate" Type="Date">2025</Item>
+	<Item Name="EPubDate" Type="Date">2025 Feb 21</Item>
+	<Item Name="Source" Type="String">PeerJ</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Chen Y</Item>
+		<Item Name="Author" Type="String">Tulhongjiang M</Item>
+		<Item Name="Author" Type="String">Ling T</Item>
+		<Item Name="Author" Type="String">Feng X</Item>
+		<Item Name="Author" Type="String">Mi J</Item>
+		<Item Name="Author" Type="String">Liu R</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Liu R</Item>
+	<Item Name="Title" Type="String">The optimal training intervention for improving the change of direction performance of adolescent team-sport athletes: a systematic review and network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">13</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">e18971</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101603425</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2167-8359</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">39995993</Item>
+		<Item Name="pmc" Type="String">PMC11849509</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC11849509;</Item>
+		<Item Name="doi" Type="String">10.7717/peerj.18971</Item>
+		<Item Name="pii" Type="String">18971</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.7717/peerj.18971</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2024/10/25 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/01/21 00:00</Item>
+		<Item Name="medline" Type="Date">2025/02/25 06:22</Item>
+		<Item Name="pubmed" Type="Date">2025/02/25 06:21</Item>
+		<Item Name="entrez" Type="Date">2025/02/25 04:43</Item>
+		<Item Name="pmc-release" Type="Date">2025/02/21 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">113</Item>
+	<Item Name="FullJournalName" Type="String">PeerJ</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.7717/peerj.18971</Item>
+	<Item Name="SO" Type="String">2025;13:e18971</Item>
+</DocSum>
+
+<DocSum>
+	<Id>39846421</Id>
+	<Item Name="PubDate" Type="Date">2025 Feb</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">J Orthop Sports Phys Ther</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Wang D</Item>
+		<Item Name="Author" Type="String">Valtonen AM</Item>
+		<Item Name="Author" Type="String">Thiel T</Item>
+		<Item Name="Author" Type="String">Stenroth L</Item>
+		<Item Name="Author" Type="String">Gao Y</Item>
+		<Item Name="Author" Type="String">Kulmala JP</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kulmala JP</Item>
+	<Item Name="Title" Type="String">Effects of Exercise-Based ACL Injury Prevention Interventions on Knee Motion in Athletes: A Systematic Review and Bayesian Network Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">55</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">123-136</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7908150</Item>
+	<Item Name="ISSN" Type="String">0190-6011</Item>
+	<Item Name="ESSN" Type="String">1938-1344</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">39846421</Item>
+		<Item Name="doi" Type="String">10.2519/jospt.2024.12720</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.2519/jospt.2024.12720</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2025/01/23 12:36</Item>
+		<Item Name="pubmed" Type="Date">2025/01/23 12:35</Item>
+		<Item Name="entrez" Type="Date">2025/01/23 07:13</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Journal of orthopaedic and sports physical therapy</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.2519/jospt.2024.12720</Item>
+	<Item Name="SO" Type="String">2025 Feb;55(2):123-136</Item>
+</DocSum>
+
+<DocSum>
+	<Id>39126286</Id>
+	<Item Name="PubDate" Type="Date">2025 Mar</Item>
+	<Item Name="EPubDate" Type="Date">2024 Aug 10</Item>
+	<Item Name="Source" Type="String">Knee Surg Sports Traumatol Arthrosc</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Malesa K</Item>
+		<Item Name="Author" Type="String">Tramś E</Item>
+		<Item Name="Author" Type="String">Kuliński K</Item>
+		<Item Name="Author" Type="String">Kamiński R</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kamiński R</Item>
+	<Item Name="Title" Type="String">The effectiveness of quadrupled semitendinosus graft technique in anterior cruciate ligament reconstruction: A network meta-analysis assessing various graft preparation techniques.</Item>
+	<Item Name="Volume" Type="String">33</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">907-925</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9314730</Item>
+	<Item Name="ISSN" Type="String">0942-2056</Item>
+	<Item Name="ESSN" Type="String">1433-7347</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">39126286</Item>
+		<Item Name="doi" Type="String">10.1002/ksa.12421</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1002/ksa.12421</Item>
+	<Item Name="History" Type="List">
+		<Item Name="revised" Type="Date">2024/07/24 00:00</Item>
+		<Item Name="received" Type="Date">2024/03/29 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/07/26 00:00</Item>
+		<Item Name="medline" Type="Date">2025/02/24 12:27</Item>
+		<Item Name="pubmed" Type="Date">2024/08/10 15:45</Item>
+		<Item Name="entrez" Type="Date">2024/08/10 05:53</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1002/ksa.12421</Item>
+	<Item Name="SO" Type="String">2025 Mar;33(3):907-925</Item>
+</DocSum>
+
+<DocSum>
+	<Id>38553073</Id>
+	<Item Name="PubDate" Type="Date">2024 Mar 29</Item>
+	<Item Name="EPubDate" Type="Date">2024 Mar 29</Item>
+	<Item Name="Source" Type="String">BMJ Open</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">He Y</Item>
+		<Item Name="Author" Type="String">Fan Y</Item>
+		<Item Name="Author" Type="String">Zhai L</Item>
+		<Item Name="Author" Type="String">Zhu W</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Zhu W</Item>
+	<Item Name="Title" Type="String">Comparative efficacy and safety of different surgical approaches for the treatment of anterior cruciate ligament injury: a Bayesian network meta-analysis protocol.</Item>
+	<Item Name="Volume" Type="String">14</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">e077242</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101552874</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2044-6055</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">38553073</Item>
+		<Item Name="pmc" Type="String">PMC10982744</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC10982744;</Item>
+		<Item Name="doi" Type="String">10.1136/bmjopen-2023-077242</Item>
+		<Item Name="pii" Type="String">bmjopen-2023-077242</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1136/bmjopen-2023-077242</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2024/04/01 06:43</Item>
+		<Item Name="pubmed" Type="Date">2024/03/30 11:44</Item>
+		<Item Name="entrez" Type="Date">2024/03/29 21:53</Item>
+		<Item Name="pmc-release" Type="Date">2024/03/29 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">37</Item>
+	<Item Name="FullJournalName" Type="String">BMJ open</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1136/bmjopen-2023-077242</Item>
+	<Item Name="SO" Type="String">2024 Mar 29;14(3):e077242</Item>
+</DocSum>
+
+<DocSum>
+	<Id>38395699</Id>
+	<Item Name="PubDate" Type="Date">2024 Apr</Item>
+	<Item Name="EPubDate" Type="Date">2024 Feb 7</Item>
+	<Item Name="Source" Type="String">J Sci Med Sport</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Magaña-Ramírez M</Item>
+		<Item Name="Author" Type="String">Gallardo-Gómez D</Item>
+		<Item Name="Author" Type="String">Álvarez-Barbosa F</Item>
+		<Item Name="Author" Type="String">Corral-Pernía JA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Corral-Pernía JA</Item>
+	<Item Name="Title" Type="String">What exercise programme is the most appropriate to mitigate anterior cruciate ligament injury risk in football (soccer) players? A systematic review and network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">27</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">234-242</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9812598</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1878-1861</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">38395699</Item>
+		<Item Name="doi" Type="String">10.1016/j.jsams.2024.02.001</Item>
+		<Item Name="pii" Type="String">S1440-2440(24)00049-5</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jsams.2024.02.001</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2023/02/13 00:00</Item>
+		<Item Name="revised" Type="Date">2023/12/29 00:00</Item>
+		<Item Name="accepted" Type="Date">2024/02/02 00:00</Item>
+		<Item Name="medline" Type="Date">2024/04/15 06:44</Item>
+		<Item Name="pubmed" Type="Date">2024/02/24 11:42</Item>
+		<Item Name="entrez" Type="Date">2024/02/23 21:56</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Journal of science and medicine in sport</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.jsams.2024.02.001</Item>
+	<Item Name="SO" Type="String">2024 Apr;27(4):234-242</Item>
+</DocSum>
+
+<DocSum>
+	<Id>37981383</Id>
+	<Item Name="PubDate" Type="Date">2023 Dec</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jiang W</Item>
+		<Item Name="Author" Type="String">Yao Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Yao Y</Item>
+	<Item Name="Title" Type="String">Regarding "Femoral Nerve Block and Local Instillation Analgesia Associated With More Reliable Efficacy in Regional Anesthesia Interventions Within 24 Hours Following Anterior Cruciate Ligament Reconstruction: A Network Meta-analysis".</Item>
+	<Item Name="Volume" Type="String">39</Item>
+	<Item Name="Issue" Type="String">12</Item>
+	<Item Name="Pages" Type="String">2403-2404</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Letter</Item>
+		<Item Name="PubType" Type="String">Comment</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">37981383</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2023.08.014</Item>
+		<Item Name="pii" Type="String">S0749-8063(23)00668-0</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2023.08.014</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2023/06/11 00:00</Item>
+		<Item Name="accepted" Type="Date">2023/08/15 00:00</Item>
+		<Item Name="medline" Type="Date">2023/11/21 06:42</Item>
+		<Item Name="pubmed" Type="Date">2023/11/20 00:43</Item>
+		<Item Name="entrez" Type="Date">2023/11/19 21:04</Item>
+	</Item>
+	<Item Name="References" Type="List">
+		<Item Name="Comment on" Type="String">Arthroscopy. 2023 May;39(5):1273-1295. doi: 10.1016/j.arthro.2022.12.014. PMID: 36708747</Item>
+	</Item>
+	<Item Name="HasAbstract" Type="Integer">0</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2023.08.014</Item>
+	<Item Name="SO" Type="String">2023 Dec;39(12):2403-2404</Item>
+</DocSum>
+
+<DocSum>
+	<Id>37435014</Id>
+	<Item Name="PubDate" Type="Date">2023 Jul</Item>
+	<Item Name="EPubDate" Type="Date">2023 Jul 10</Item>
+	<Item Name="Source" Type="String">Cureus</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Marin F</Item>
+		<Item Name="Author" Type="String">Soto J</Item>
+		<Item Name="Author" Type="String">Barahona M</Item>
+		<Item Name="Author" Type="String">Negrin R</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Negrin R</Item>
+	<Item Name="Title" Type="String">Searching for the Best Treatment for Ramp Lesions: A Systematic Review and Network Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">15</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">e41651</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101596737</Item>
+	<Item Name="ISSN" Type="String">2168-8184</Item>
+	<Item Name="ESSN" Type="String">2168-8184</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">37435014</Item>
+		<Item Name="pmc" Type="String">PMC10332486</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC10332486;</Item>
+		<Item Name="doi" Type="String">10.7759/cureus.41651</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.7759/cureus.41651</Item>
+	<Item Name="History" Type="List">
+		<Item Name="accepted" Type="Date">2023/07/10 00:00</Item>
+		<Item Name="medline" Type="Date">2023/07/12 06:43</Item>
+		<Item Name="pubmed" Type="Date">2023/07/12 06:42</Item>
+		<Item Name="entrez" Type="Date">2023/07/12 03:51</Item>
+		<Item Name="pmc-release" Type="Date">2023/07/10 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">35</Item>
+	<Item Name="FullJournalName" Type="String">Cureus</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.7759/cureus.41651</Item>
+	<Item Name="SO" Type="String">2023 Jul;15(7):e41651</Item>
+</DocSum>
+
+<DocSum>
+	<Id>37106008</Id>
+	<Item Name="PubDate" Type="Date">2023 Apr 27</Item>
+	<Item Name="EPubDate" Type="Date">2023 Apr 27</Item>
+	<Item Name="Source" Type="String">Sci Rep</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Migliorini F</Item>
+		<Item Name="Author" Type="String">Torsiello E</Item>
+		<Item Name="Author" Type="String">Trivellas A</Item>
+		<Item Name="Author" Type="String">Eschweiler J</Item>
+		<Item Name="Author" Type="String">Hildebrand F</Item>
+		<Item Name="Author" Type="String">Maffulli N</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Maffulli N</Item>
+	<Item Name="Title" Type="String">Bone-patellar tendon-bone versus two- and four-strand hamstring tendon autografts for ACL reconstruction in young adults: a Bayesian network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">13</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">6883</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101563288</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2045-2322</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">37106008</Item>
+		<Item Name="pmc" Type="String">PMC10140035</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC10140035;</Item>
+		<Item Name="doi" Type="String">10.1038/s41598-023-33899-1</Item>
+		<Item Name="pii" Type="String">10.1038/s41598-023-33899-1</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/s41598-023-33899-1</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/10/16 00:00</Item>
+		<Item Name="accepted" Type="Date">2023/04/20 00:00</Item>
+		<Item Name="medline" Type="Date">2023/05/01 06:42</Item>
+		<Item Name="pubmed" Type="Date">2023/04/28 00:42</Item>
+		<Item Name="entrez" Type="Date">2023/04/27 23:17</Item>
+		<Item Name="pmc-release" Type="Date">2023/04/27 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">149</Item>
+	<Item Name="FullJournalName" Type="String">Scientific reports</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/s41598-023-33899-1</Item>
+	<Item Name="SO" Type="String">2023 Apr 27;13(1):6883</Item>
+</DocSum>
+
+<DocSum>
+	<Id>37000243</Id>
+	<Item Name="PubDate" Type="Date">2023 Aug</Item>
+	<Item Name="EPubDate" Type="Date">2023 Mar 31</Item>
+	<Item Name="Source" Type="String">Knee Surg Sports Traumatol Arthrosc</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Kunze KN</Item>
+		<Item Name="Author" Type="String">Moran J</Item>
+		<Item Name="Author" Type="String">Polce EM</Item>
+		<Item Name="Author" Type="String">Pareek A</Item>
+		<Item Name="Author" Type="String">Strickland SM</Item>
+		<Item Name="Author" Type="String">Williams RJ 3rd</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Williams RJ 3rd</Item>
+	<Item Name="Title" Type="String">Lower donor site morbidity with hamstring and quadriceps tendon autograft compared with bone-patellar tendon-bone autograft after anterior cruciate ligament reconstruction: a systematic review and network meta-analysis of randomized controlled trials.</Item>
+	<Item Name="Volume" Type="String">31</Item>
+	<Item Name="Issue" Type="String">8</Item>
+	<Item Name="Pages" Type="String">3339-3352</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9314730</Item>
+	<Item Name="ISSN" Type="String">0942-2056</Item>
+	<Item Name="ESSN" Type="String">1433-7347</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">37000243</Item>
+		<Item Name="doi" Type="String">10.1007/s00167-023-07402-2</Item>
+		<Item Name="pii" Type="String">10.1007/s00167-023-07402-2</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00167-023-07402-2</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2022/12/09 00:00</Item>
+		<Item Name="accepted" Type="Date">2023/03/20 00:00</Item>
+		<Item Name="medline" Type="Date">2023/07/21 06:44</Item>
+		<Item Name="pubmed" Type="Date">2023/04/01 06:00</Item>
+		<Item Name="entrez" Type="Date">2023/03/31 11:15</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00167-023-07402-2</Item>
+	<Item Name="SO" Type="String">2023 Aug;31(8):3339-3352</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36843990</Id>
+	<Item Name="PubDate" Type="Date">2023</Item>
+	<Item Name="EPubDate" Type="Date">2023 Feb 10</Item>
+	<Item Name="Source" Type="String">Front Surg</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Xu J</Item>
+		<Item Name="Author" Type="String">Du W</Item>
+		<Item Name="Author" Type="String">Xue X</Item>
+		<Item Name="Author" Type="String">Chen M</Item>
+		<Item Name="Author" Type="String">Zhou W</Item>
+		<Item Name="Author" Type="String">Luo X</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Luo X</Item>
+	<Item Name="Title" Type="String">Global research trends on platelet-rich plasma for tendon and ligament injuries from the past two decades: A bibliometric and visualized study.</Item>
+	<Item Name="Volume" Type="String">10</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">1113491</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101645127</Item>
+	<Item Name="ISSN" Type="String">2296-875X</Item>
+	<Item Name="ESSN" Type="String">2296-875X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36843990</Item>
+		<Item Name="pmc" Type="String">PMC9950278</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC9950278;</Item>
+		<Item Name="doi" Type="String">10.3389/fsurg.2023.1113491</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.3389/fsurg.2023.1113491</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2022/12/01 00:00</Item>
+		<Item Name="accepted" Type="Date">2023/01/19 00:00</Item>
+		<Item Name="entrez" Type="Date">2023/02/27 04:02</Item>
+		<Item Name="pubmed" Type="Date">2023/02/28 06:00</Item>
+		<Item Name="medline" Type="Date">2023/02/28 06:01</Item>
+		<Item Name="pmc-release" Type="Date">2023/02/10 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">89</Item>
+	<Item Name="FullJournalName" Type="String">Frontiers in surgery</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.3389/fsurg.2023.1113491</Item>
+	<Item Name="SO" Type="String">2023;10:1113491</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36708747</Id>
+	<Item Name="PubDate" Type="Date">2023 May</Item>
+	<Item Name="EPubDate" Type="Date">2023 Jan 26</Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Liu H</Item>
+		<Item Name="Author" Type="String">Song X</Item>
+		<Item Name="Author" Type="String">Li C</Item>
+		<Item Name="Author" Type="String">Li Y</Item>
+		<Item Name="Author" Type="String">Guo W</Item>
+		<Item Name="Author" Type="String">Zhang H</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Zhang H</Item>
+	<Item Name="Title" Type="String">Femoral Nerve Block and Local Instillation Analgesia Associated With More Reliable Efficacy in Regional Anesthesia Interventions Within 24 Hours Following Anterior Cruciate Ligament Reconstruction: A Network Meta-analysis.</Item>
+	<Item Name="Volume" Type="String">39</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">1273-1295</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36708747</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2022.12.014</Item>
+		<Item Name="pii" Type="String">S0749-8063(22)00839-8</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2022.12.014</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2022/01/23 00:00</Item>
+		<Item Name="revised" Type="Date">2022/11/26 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/12/01 00:00</Item>
+		<Item Name="medline" Type="Date">2023/04/07 10:18</Item>
+		<Item Name="pubmed" Type="Date">2023/01/29 06:00</Item>
+		<Item Name="entrez" Type="Date">2023/01/28 19:23</Item>
+	</Item>
+	<Item Name="References" Type="List">
+		<Item Name="Comment in" Type="String">Arthroscopy. 2023 May;39(5):1296-1298. doi: 10.1016/j.arthro.2023.01.018. PMID: 37019539</Item>
+		<Item Name="Comment in" Type="String">Arthroscopy. 2023 Dec;39(12):2403-2404. doi: 10.1016/j.arthro.2023.08.014. PMID: 37981383</Item>
+	</Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2022.12.014</Item>
+	<Item Name="SO" Type="String">2023 May;39(5):1273-1295</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36577618</Id>
+	<Item Name="PubDate" Type="Date">2023 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2022 Dec 8</Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Feng H</Item>
+		<Item Name="Author" Type="String">Wang N</Item>
+		<Item Name="Author" Type="String">Xie D</Item>
+		<Item Name="Author" Type="String">Yang Z</Item>
+		<Item Name="Author" Type="String">Zeng C</Item>
+		<Item Name="Author" Type="String">Lei G</Item>
+		<Item Name="Author" Type="String">Li H</Item>
+		<Item Name="Author" Type="String">Wang Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wang Y</Item>
+	<Item Name="Title" Type="String">Anteromedial Portal Technique, but Not Outside-in Technique, Is Superior to Standard Transtibial Technique in Knee Stability and Functional Recovery After Anterior Cruciate Ligament Reconstruction: A Network Meta-analysis.</Item>
+	<Item Name="Volume" Type="String">39</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">1515-1525</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36577618</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2022.11.026</Item>
+		<Item Name="pii" Type="String">S0749-8063(22)00770-8</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2022.11.026</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2022/04/16 00:00</Item>
+		<Item Name="revised" Type="Date">2022/11/11 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/11/13 00:00</Item>
+		<Item Name="medline" Type="Date">2023/05/08 10:17</Item>
+		<Item Name="pubmed" Type="Date">2022/12/29 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/12/28 21:55</Item>
+	</Item>
+	<Item Name="References" Type="List">
+		<Item Name="Comment in" Type="String">Arthroscopy. 2023 Jun;39(6):1526-1528. doi: 10.1016/j.arthro.2022.12.023. PMID: 37147079</Item>
+	</Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2022.11.026</Item>
+	<Item Name="SO" Type="String">2023 Jun;39(6):1515-1525</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36567183</Id>
+	<Item Name="PubDate" Type="Date">2023 Mar</Item>
+	<Item Name="EPubDate" Type="Date">2022 Dec 8</Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Park YB</Item>
+		<Item Name="Author" Type="String">Lee HJ</Item>
+		<Item Name="Author" Type="String">Cho HC</Item>
+		<Item Name="Author" Type="String">Pujol N</Item>
+		<Item Name="Author" Type="String">Kim SH</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Kim SH</Item>
+	<Item Name="Title" Type="String">Combined Lateral Extra-Articular Tenodesis or Combined Anterolateral Ligament Reconstruction and Anterior Cruciate Ligament Reconstruction Improves Outcomes Compared to Isolated Reconstruction for Anterior Cruciate Ligament Tear: A Network Meta-analysis of Randomized Controlled Trials.</Item>
+	<Item Name="Volume" Type="String">39</Item>
+	<Item Name="Issue" Type="String">3</Item>
+	<Item Name="Pages" Type="String">758-776.e10</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36567183</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2022.11.032</Item>
+		<Item Name="pii" Type="String">S0749-8063(22)00776-9</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2022.11.032</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2022/04/03 00:00</Item>
+		<Item Name="revised" Type="Date">2022/11/16 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/11/25 00:00</Item>
+		<Item Name="pubmed" Type="Date">2022/12/26 06:00</Item>
+		<Item Name="medline" Type="Date">2023/02/08 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/12/25 21:54</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2022.11.032</Item>
+	<Item Name="SO" Type="String">2023 Mar;39(3):758-776.e10</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36326047</Id>
+	<Item Name="PubDate" Type="Date">2023 Feb</Item>
+	<Item Name="EPubDate" Type="Date">2022 Nov 3</Item>
+	<Item Name="Source" Type="String">Anaesthesia</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Hussain N</Item>
+		<Item Name="Author" Type="String">Brull R</Item>
+		<Item Name="Author" Type="String">Vannabouathong C</Item>
+		<Item Name="Author" Type="String">Speer J</Item>
+		<Item Name="Author" Type="String">Lagnese C</Item>
+		<Item Name="Author" Type="String">McCartney CJL</Item>
+		<Item Name="Author" Type="String">Abdallah FW</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Abdallah FW</Item>
+	<Item Name="Title" Type="String">Network meta-analysis of the analgesic effectiveness of regional anaesthesia techniques for anterior cruciate ligament reconstruction.</Item>
+	<Item Name="Volume" Type="String">78</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">207-224</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0370524</Item>
+	<Item Name="ISSN" Type="String">0003-2409</Item>
+	<Item Name="ESSN" Type="String">1365-2044</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36326047</Item>
+		<Item Name="doi" Type="String">10.1111/anae.15873</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1111/anae.15873</Item>
+	<Item Name="History" Type="List">
+		<Item Name="accepted" Type="Date">2022/09/20 00:00</Item>
+		<Item Name="pubmed" Type="Date">2022/11/04 06:00</Item>
+		<Item Name="medline" Type="Date">2023/01/10 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/11/03 06:23</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Anaesthesia</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1111/anae.15873</Item>
+	<Item Name="SO" Type="String">2023 Feb;78(2):207-224</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36137116</Id>
+	<Item Name="PubDate" Type="Date">2022</Item>
+	<Item Name="EPubDate" Type="Date">2022 Sep 22</Item>
+	<Item Name="Source" Type="String">PLoS One</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Nie S</Item>
+		<Item Name="Author" Type="String">Zhou S</Item>
+		<Item Name="Author" Type="String">Huang W</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Huang W</Item>
+	<Item Name="Title" Type="String">Femoral fixation methods for hamstring graft in anterior cruciate ligament reconstruction: A network meta-analysis of controlled clinical trials.</Item>
+	<Item Name="Volume" Type="String">17</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">e0275097</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101285081</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1932-6203</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36137116</Item>
+		<Item Name="pmc" Type="String">PMC9499312</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC9499312;</Item>
+		<Item Name="doi" Type="String">10.1371/journal.pone.0275097</Item>
+		<Item Name="pii" Type="String">PONE-D-21-35863</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1371/journal.pone.0275097</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/11/26 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/09/11 00:00</Item>
+		<Item Name="entrez" Type="Date">2022/09/22 14:24</Item>
+		<Item Name="pubmed" Type="Date">2022/09/23 06:00</Item>
+		<Item Name="medline" Type="Date">2022/09/28 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2022/09/22 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">62</Item>
+	<Item Name="FullJournalName" Type="String">PloS one</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1371/journal.pone.0275097</Item>
+	<Item Name="SO" Type="String">2022;17(9):e0275097</Item>
+</DocSum>
+
+<DocSum>
+	<Id>35996336</Id>
+	<Item Name="PubDate" Type="Date">2022 Aug 23</Item>
+	<Item Name="EPubDate" Type="Date">2022 Aug 23</Item>
+	<Item Name="Source" Type="String">Med Sci Monit</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Wu Y</Item>
+		<Item Name="Author" Type="String">Li Y</Item>
+		<Item Name="Author" Type="String">Guo J</Item>
+		<Item Name="Author" Type="String">Li Q</Item>
+		<Item Name="Author" Type="String">Wu J</Item>
+		<Item Name="Author" Type="String">Cao Z</Item>
+		<Item Name="Author" Type="String">Song Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Song Y</Item>
+	<Item Name="Title" Type="String">Optimal Surgical Treatment Method for Anterior Cruciate Ligament Rupture: Results from a Network Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">28</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">e937118</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9609063</Item>
+	<Item Name="ISSN" Type="String">1234-1010</Item>
+	<Item Name="ESSN" Type="String">1643-3750</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">35996336</Item>
+		<Item Name="pmc" Type="String">PMC9422452</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC9422452;</Item>
+		<Item Name="doi" Type="String">10.12659/MSM.937118</Item>
+		<Item Name="pii" Type="String">937118</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.12659/MSM.937118</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2022/08/23 01:22</Item>
+		<Item Name="pubmed" Type="Date">2022/08/24 06:00</Item>
+		<Item Name="medline" Type="Date">2022/08/25 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2022/08/23 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">63</Item>
+	<Item Name="FullJournalName" Type="String">Medical science monitor : international medical journal of experimental and clinical research</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.12659/MSM.937118</Item>
+	<Item Name="SO" Type="String">2022 Aug 23;28:e937118</Item>
+</DocSum>
+
+<DocSum>
+	<Id>34766600</Id>
+	<Item Name="PubDate" Type="Date">2021 Nov 12</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Medicine (Baltimore)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Wang C</Item>
+		<Item Name="Author" Type="String">Ji Z</Item>
+		<Item Name="Author" Type="String">Wang L</Item>
+		<Item Name="Author" Type="String">Zhang Q</Item>
+		<Item Name="Author" Type="String">Wang H</Item>
+		<Item Name="Author" Type="String">Qie S</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Qie S</Item>
+	<Item Name="Title" Type="String">The efficacy of 5 rehabilitation treatments after anterior cruciate ligament reconstruction: A network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">100</Item>
+	<Item Name="Issue" Type="String">45</Item>
+	<Item Name="Pages" Type="String">e27835</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">2985248R</Item>
+	<Item Name="ISSN" Type="String">0025-7974</Item>
+	<Item Name="ESSN" Type="String">1536-5964</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">34766600</Item>
+		<Item Name="pmc" Type="String">PMC8592301</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC8592301;</Item>
+		<Item Name="doi" Type="String">10.1097/MD.0000000000027835</Item>
+		<Item Name="pii" Type="String">00005792-202111120-00045</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1097/MD.0000000000027835</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2020/10/14 00:00</Item>
+		<Item Name="accepted" Type="Date">2021/10/29 00:00</Item>
+		<Item Name="entrez" Type="Date">2021/11/12 08:41</Item>
+		<Item Name="pubmed" Type="Date">2021/11/13 06:00</Item>
+		<Item Name="medline" Type="Date">2022/02/12 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2021/11/12 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">26</Item>
+	<Item Name="FullJournalName" Type="String">Medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1097/MD.0000000000027835</Item>
+	<Item Name="SO" Type="String">2021 Nov 12;100(45):e27835</Item>
+</DocSum>
+
+<DocSum>
+	<Id>34454059</Id>
+	<Item Name="PubDate" Type="Date">2022 Apr</Item>
+	<Item Name="EPubDate" Type="Date">2021 Aug 25</Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Su P</Item>
+		<Item Name="Author" Type="String">Zhang L</Item>
+		<Item Name="Author" Type="String">Zhu Y</Item>
+		<Item Name="Author" Type="String">Li J</Item>
+		<Item Name="Author" Type="String">Fu W</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Fu W</Item>
+	<Item Name="Title" Type="String">Most Analgesia Treatments Have No Clinical Significance for Anterior Cruciate Ligament Reconstruction: A Network Meta-analysis of 66 Randomized Controlled Trials.</Item>
+	<Item Name="Volume" Type="String">38</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">1326-1340.e0</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">34454059</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2021.08.023</Item>
+		<Item Name="pii" Type="String">S0749-8063(21)00775-1</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2021.08.023</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/04/27 00:00</Item>
+		<Item Name="revised" Type="Date">2021/08/14 00:00</Item>
+		<Item Name="accepted" Type="Date">2021/08/14 00:00</Item>
+		<Item Name="pubmed" Type="Date">2021/08/29 06:00</Item>
+		<Item Name="medline" Type="Date">2022/04/06 06:00</Item>
+		<Item Name="entrez" Type="Date">2021/08/28 20:11</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2021.08.023</Item>
+	<Item Name="SO" Type="String">2022 Apr;38(4):1326-1340.e0</Item>
+</DocSum>
+
+<DocSum>
+	<Id>33515736</Id>
+	<Item Name="PubDate" Type="Date">2021 Apr</Item>
+	<Item Name="EPubDate" Type="Date">2021 Jan 28</Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Davey MS</Item>
+		<Item Name="Author" Type="String">Hurley ET</Item>
+		<Item Name="Author" Type="String">Anil U</Item>
+		<Item Name="Author" Type="String">Moses A</Item>
+		<Item Name="Author" Type="String">Thompson K</Item>
+		<Item Name="Author" Type="String">Alaia M</Item>
+		<Item Name="Author" Type="String">Strauss EJ</Item>
+		<Item Name="Author" Type="String">Campbell KA</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Campbell KA</Item>
+	<Item Name="Title" Type="String">Pain Management Strategies After Anterior Cruciate Ligament Reconstruction: A Systematic Review With Network Meta-analysis.</Item>
+	<Item Name="Volume" Type="String">37</Item>
+	<Item Name="Issue" Type="String">4</Item>
+	<Item Name="Pages" Type="String">1290-1300.e6</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">33515736</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2021.01.023</Item>
+		<Item Name="pii" Type="String">S0749-8063(21)00037-2</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2021.01.023</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2020/09/09 00:00</Item>
+		<Item Name="revised" Type="Date">2021/01/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2021/01/05 00:00</Item>
+		<Item Name="pubmed" Type="Date">2021/01/31 06:00</Item>
+		<Item Name="medline" Type="Date">2021/06/10 06:00</Item>
+		<Item Name="entrez" Type="Date">2021/01/30 20:09</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2021.01.023</Item>
+	<Item Name="SO" Type="String">2021 Apr;37(4):1290-1300.e6</Item>
+</DocSum>
+
+<DocSum>
+	<Id>33483768</Id>
+	<Item Name="PubDate" Type="Date">2021 Nov</Item>
+	<Item Name="EPubDate" Type="Date">2021 Jan 23</Item>
+	<Item Name="Source" Type="String">Knee Surg Sports Traumatol Arthrosc</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Hurley ET</Item>
+		<Item Name="Author" Type="String">Bloom DA</Item>
+		<Item Name="Author" Type="String">Hoberman A</Item>
+		<Item Name="Author" Type="String">Anil U</Item>
+		<Item Name="Author" Type="String">Gonzalez-Lomas G</Item>
+		<Item Name="Author" Type="String">Strauss EJ</Item>
+		<Item Name="Author" Type="String">Alaia MJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Alaia MJ</Item>
+	<Item Name="Title" Type="String">There are differences in knee stability based on lateral extra-articular augmentation technique alongside anterior cruciate ligament reconstruction.</Item>
+	<Item Name="Volume" Type="String">29</Item>
+	<Item Name="Issue" Type="String">11</Item>
+	<Item Name="Pages" Type="String">3854-3863</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9314730</Item>
+	<Item Name="ISSN" Type="String">0942-2056</Item>
+	<Item Name="ESSN" Type="String">1433-7347</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">33483768</Item>
+		<Item Name="doi" Type="String">10.1007/s00167-020-06416-4</Item>
+		<Item Name="pii" Type="String">10.1007/s00167-020-06416-4</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00167-020-06416-4</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2020/06/09 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/12/10 00:00</Item>
+		<Item Name="pubmed" Type="Date">2021/01/24 06:00</Item>
+		<Item Name="medline" Type="Date">2021/10/16 06:00</Item>
+		<Item Name="entrez" Type="Date">2021/01/23 05:39</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00167-020-06416-4</Item>
+	<Item Name="SO" Type="String">2021 Nov;29(11):3854-3863</Item>
+</DocSum>
+
+<DocSum>
+	<Id>33437619</Id>
+	<Item Name="PubDate" Type="Date">2021 Jan</Item>
+	<Item Name="EPubDate" Type="Date">2020 Apr 11</Item>
+	<Item Name="Source" Type="String">J Orthop Translat</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Yang W</Item>
+		<Item Name="Author" Type="String">Huang X</Item>
+		<Item Name="Author" Type="String">Wang S</Item>
+		<Item Name="Author" Type="String">Wang H</Item>
+		<Item Name="Author" Type="String">Huang W</Item>
+		<Item Name="Author" Type="String">Shao Z</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Shao Z</Item>
+	<Item Name="Title" Type="String">The long-term outcomes of different grafts in anterior cruciate ligament reconstruction: a network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">26</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">16-30</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101625127</Item>
+	<Item Name="ISSN" Type="String">2214-031X</Item>
+	<Item Name="ESSN" Type="String">2214-0328</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">33437619</Item>
+		<Item Name="pmc" Type="String">PMC7773980</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC7773980;</Item>
+		<Item Name="doi" Type="String">10.1016/j.jot.2020.03.008</Item>
+		<Item Name="pii" Type="String">S2214-031X(20)30038-3</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.jot.2020.03.008</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2019/10/03 00:00</Item>
+		<Item Name="revised" Type="Date">2020/03/08 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/03/15 00:00</Item>
+		<Item Name="entrez" Type="Date">2021/01/13 06:13</Item>
+		<Item Name="pubmed" Type="Date">2021/01/14 06:00</Item>
+		<Item Name="medline" Type="Date">2021/01/14 06:01</Item>
+		<Item Name="pmc-release" Type="Date">2020/04/11 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">97</Item>
+	<Item Name="FullJournalName" Type="String">Journal of orthopaedic translation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.jot.2020.03.008</Item>
+	<Item Name="SO" Type="String">2021 Jan;26:16-30</Item>
+</DocSum>
+
+<DocSum>
+	<Id>33135006</Id>
+	<Item Name="PubDate" Type="Date">2020 Oct</Item>
+	<Item Name="EPubDate" Type="Date">2020 Sep 25</Item>
+	<Item Name="Source" Type="String">Arthrosc Sports Med Rehabil</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Mo Z</Item>
+		<Item Name="Author" Type="String">Li D</Item>
+		<Item Name="Author" Type="String">Yang B</Item>
+		<Item Name="Author" Type="String">Tang S</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Tang S</Item>
+	<Item Name="Title" Type="String">Comparative Efficacy of Graft Options in Anterior Cruciate Ligament Reconstruction: A Systematic Review and Network Meta-Analysis.</Item>
+	<Item Name="Volume" Type="String">2</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String">e645-e654</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101765256</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">2666-061X</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">33135006</Item>
+		<Item Name="pmc" Type="String">PMC7588648</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC7588648;</Item>
+		<Item Name="doi" Type="String">10.1016/j.asmr.2020.05.007</Item>
+		<Item Name="pii" Type="String">S2666-061X(20)30049-3</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.asmr.2020.05.007</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2019/08/23 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/05/13 00:00</Item>
+		<Item Name="entrez" Type="Date">2020/11/02 06:23</Item>
+		<Item Name="pubmed" Type="Date">2020/11/03 06:00</Item>
+		<Item Name="medline" Type="Date">2020/11/03 06:01</Item>
+		<Item Name="pmc-release" Type="Date">2020/09/25 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">77</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy, sports medicine, and rehabilitation</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.asmr.2020.05.007</Item>
+	<Item Name="SO" Type="String">2020 Oct;2(5):e645-e654</Item>
+</DocSum>
+
+<DocSum>
+	<Id>33120810</Id>
+	<Item Name="PubDate" Type="Date">2020 Oct 23</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Medicine (Baltimore)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jin JX</Item>
+		<Item Name="Author" Type="String">Fang PZ</Item>
+		<Item Name="Author" Type="String">Hu ZW</Item>
+		<Item Name="Author" Type="String">Chen JL</Item>
+		<Item Name="Author" Type="String">Wang RR</Item>
+		<Item Name="Author" Type="String">Wang X</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wang X</Item>
+	<Item Name="Title" Type="String">Comparison of the effectiveness of autologous grafts for anterior cruciate ligament reconstruction: A protocol for an overview of systematic review and network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">99</Item>
+	<Item Name="Issue" Type="String">43</Item>
+	<Item Name="Pages" Type="String">e22832</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">2985248R</Item>
+	<Item Name="ISSN" Type="String">0025-7974</Item>
+	<Item Name="ESSN" Type="String">1536-5964</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">33120810</Item>
+		<Item Name="pmc" Type="String">PMC7581041</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC7581041;</Item>
+		<Item Name="doi" Type="String">10.1097/MD.0000000000022832</Item>
+		<Item Name="pii" Type="String">00005792-202010230-00086</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1097/MD.0000000000022832</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2020/10/30 01:01</Item>
+		<Item Name="pubmed" Type="Date">2020/10/31 06:00</Item>
+		<Item Name="medline" Type="Date">2021/01/01 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2020/10/23 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">27</Item>
+	<Item Name="FullJournalName" Type="String">Medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1097/MD.0000000000022832</Item>
+	<Item Name="SO" Type="String">2020 Oct 23;99(43):e22832</Item>
+</DocSum>
+
+<DocSum>
+	<Id>32813044</Id>
+	<Item Name="PubDate" Type="Date">2021 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2020 Aug 19</Item>
+	<Item Name="Source" Type="String">Knee Surg Sports Traumatol Arthrosc</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Yan L</Item>
+		<Item Name="Author" Type="String">Li JJ</Item>
+		<Item Name="Author" Type="String">Zhu Y</Item>
+		<Item Name="Author" Type="String">Liu H</Item>
+		<Item Name="Author" Type="String">Liu R</Item>
+		<Item Name="Author" Type="String">Zhao B</Item>
+		<Item Name="Author" Type="String">Wang B</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wang B</Item>
+	<Item Name="Title" Type="String">Interference screws are more likely to perform better than cortical button and cross-pin fixation for hamstring autograft in ACL reconstruction: a Bayesian network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">29</Item>
+	<Item Name="Issue" Type="String">6</Item>
+	<Item Name="Pages" Type="String">1850-1861</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9314730</Item>
+	<Item Name="ISSN" Type="String">0942-2056</Item>
+	<Item Name="ESSN" Type="String">1433-7347</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">32813044</Item>
+		<Item Name="doi" Type="String">10.1007/s00167-020-06231-x</Item>
+		<Item Name="pii" Type="String">10.1007/s00167-020-06231-x</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00167-020-06231-x</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2020/04/22 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/08/10 00:00</Item>
+		<Item Name="pubmed" Type="Date">2020/08/20 06:00</Item>
+		<Item Name="medline" Type="Date">2021/06/22 06:00</Item>
+		<Item Name="entrez" Type="Date">2020/08/20 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Knee surgery, sports traumatology, arthroscopy : official journal of the ESSKA</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00167-020-06231-x</Item>
+	<Item Name="SO" Type="String">2021 Jun;29(6):1850-1861</Item>
+</DocSum>
+
+<DocSum>
+	<Id>32502016</Id>
+	<Item Name="PubDate" Type="Date">2020 Jun 5</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Medicine (Baltimore)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Wang N</Item>
+		<Item Name="Author" Type="String">Zhu Z</Item>
+		<Item Name="Author" Type="String">Wu Z</Item>
+		<Item Name="Author" Type="String">He H</Item>
+		<Item Name="Author" Type="String">Wang H</Item>
+		<Item Name="Author" Type="String">Li W</Item>
+		<Item Name="Author" Type="String">Xie D</Item>
+		<Item Name="Author" Type="String">Wang Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wang Y</Item>
+	<Item Name="Title" Type="String">Comparative risk-benefit profiles of different femoral drilling techniques in anterior cruciate ligament reconstruction: A protocol for a systematic review and network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">99</Item>
+	<Item Name="Issue" Type="String">23</Item>
+	<Item Name="Pages" Type="String">e20544</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">2985248R</Item>
+	<Item Name="ISSN" Type="String">0025-7974</Item>
+	<Item Name="ESSN" Type="String">1536-5964</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">32502016</Item>
+		<Item Name="pmc" Type="String">PMC7306331</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC7306331;</Item>
+		<Item Name="doi" Type="String">10.1097/MD.0000000000020544</Item>
+		<Item Name="pii" Type="String">00005792-202006050-00054</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1097/MD.0000000000020544</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2020/06/06 06:00</Item>
+		<Item Name="pubmed" Type="Date">2020/06/06 06:00</Item>
+		<Item Name="medline" Type="Date">2020/06/23 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2020/06/05 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">37</Item>
+	<Item Name="FullJournalName" Type="String">Medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1097/MD.0000000000020544</Item>
+	<Item Name="SO" Type="String">2020 Jun 5;99(23):e20544</Item>
+</DocSum>
+
+<DocSum>
+	<Id>32360701</Id>
+	<Item Name="PubDate" Type="Date">2020 Jul</Item>
+	<Item Name="EPubDate" Type="Date">2020 Apr 29</Item>
+	<Item Name="Source" Type="String">Arthroscopy</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Wang Y</Item>
+		<Item Name="Author" Type="String">Lei G</Item>
+		<Item Name="Author" Type="String">Zeng C</Item>
+		<Item Name="Author" Type="String">Wei J</Item>
+		<Item Name="Author" Type="String">He H</Item>
+		<Item Name="Author" Type="String">Li X</Item>
+		<Item Name="Author" Type="String">Zhu Z</Item>
+		<Item Name="Author" Type="String">Wang H</Item>
+		<Item Name="Author" Type="String">Wu Z</Item>
+		<Item Name="Author" Type="String">Wang N</Item>
+		<Item Name="Author" Type="String">Ding X</Item>
+		<Item Name="Author" Type="String">Li H</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Li H</Item>
+	<Item Name="Title" Type="String">Comparative Risk-Benefit Profiles of Individual Devices for Graft Fixation in Anterior Cruciate Ligament Reconstruction: A Systematic Review and Network Meta-analysis.</Item>
+	<Item Name="Volume" Type="String">36</Item>
+	<Item Name="Issue" Type="String">7</Item>
+	<Item Name="Pages" Type="String">1953-1972</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">8506498</Item>
+	<Item Name="ISSN" Type="String">0749-8063</Item>
+	<Item Name="ESSN" Type="String">1526-3231</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Comparative Study</Item>
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Systematic Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">32360701</Item>
+		<Item Name="doi" Type="String">10.1016/j.arthro.2020.04.023</Item>
+		<Item Name="pii" Type="String">S0749-8063(20)30339-X</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.arthro.2020.04.023</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2019/09/28 00:00</Item>
+		<Item Name="revised" Type="Date">2020/04/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2020/04/10 00:00</Item>
+		<Item Name="pubmed" Type="Date">2020/05/04 06:00</Item>
+		<Item Name="medline" Type="Date">2021/01/13 06:00</Item>
+		<Item Name="entrez" Type="Date">2020/05/04 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Arthroscopy : the journal of arthroscopic &amp; related surgery : official publication of the Arthroscopy Association of North America and the International Arthroscopy Association</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.arthro.2020.04.023</Item>
+	<Item Name="SO" Type="String">2020 Jul;36(7):1953-1972</Item>
+</DocSum>
+
+<DocSum>
+	<Id>31858199</Id>
+	<Item Name="PubDate" Type="Date">2020 Feb</Item>
+	<Item Name="EPubDate" Type="Date">2019 Dec 19</Item>
+	<Item Name="Source" Type="String">Int Orthop</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Yang XG</Item>
+		<Item Name="Author" Type="String">Wang F</Item>
+		<Item Name="Author" Type="String">He X</Item>
+		<Item Name="Author" Type="String">Feng JT</Item>
+		<Item Name="Author" Type="String">Hu YC</Item>
+		<Item Name="Author" Type="String">Zhang H</Item>
+		<Item Name="Author" Type="String">Yang L</Item>
+		<Item Name="Author" Type="String">Hua K</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Hua K</Item>
+	<Item Name="Title" Type="String">Network meta-analysis of knee outcomes following anterior cruciate ligament reconstruction with various types of tendon grafts.</Item>
+	<Item Name="Volume" Type="String">44</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">365-380</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7705431</Item>
+	<Item Name="ISSN" Type="String">0341-2695</Item>
+	<Item Name="ESSN" Type="String">1432-5195</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">31858199</Item>
+		<Item Name="doi" Type="String">10.1007/s00264-019-04417-8</Item>
+		<Item Name="pii" Type="String">10.1007/s00264-019-04417-8</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00264-019-04417-8</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2019/06/20 00:00</Item>
+		<Item Name="accepted" Type="Date">2019/09/13 00:00</Item>
+		<Item Name="pubmed" Type="Date">2019/12/21 06:00</Item>
+		<Item Name="medline" Type="Date">2020/09/26 06:00</Item>
+		<Item Name="entrez" Type="Date">2019/12/21 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">International orthopaedics</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00264-019-04417-8</Item>
+	<Item Name="SO" Type="String">2020 Feb;44(2):365-380</Item>
+</DocSum>
+
+<DocSum>
+	<Id>30896646</Id>
+	<Item Name="PubDate" Type="Date">2019 Mar</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Medicine (Baltimore)</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jin J</Item>
+		<Item Name="Author" Type="String">Yu L</Item>
+		<Item Name="Author" Type="String">Wei M</Item>
+		<Item Name="Author" Type="String">Shang Y</Item>
+		<Item Name="Author" Type="String">Wang X</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Wang X</Item>
+	<Item Name="Title" Type="String">Comparison of efficacy and safety of different fixation devices for anterior cruciate ligament reconstruction: A Bayesian network meta-analysis protocol.</Item>
+	<Item Name="Volume" Type="String">98</Item>
+	<Item Name="Issue" Type="String">12</Item>
+	<Item Name="Pages" Type="String">e14911</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">2985248R</Item>
+	<Item Name="ISSN" Type="String">0025-7974</Item>
+	<Item Name="ESSN" Type="String">1536-5964</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">30896646</Item>
+		<Item Name="pmc" Type="String">PMC6709171</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC6709171;</Item>
+		<Item Name="doi" Type="String">10.1097/MD.0000000000014911</Item>
+		<Item Name="pii" Type="String">00005792-201903220-00035</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1097/MD.0000000000014911</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2019/03/22 06:00</Item>
+		<Item Name="pubmed" Type="Date">2019/03/22 06:00</Item>
+		<Item Name="medline" Type="Date">2019/04/10 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2019/03/22 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">34</Item>
+	<Item Name="FullJournalName" Type="String">Medicine</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1097/MD.0000000000014911</Item>
+	<Item Name="SO" Type="String">2019 Mar;98(12):e14911</Item>
+</DocSum>
+
+<DocSum>
+	<Id>30773253</Id>
+	<Item Name="PubDate" Type="Date">2019 Mar</Item>
+	<Item Name="EPubDate" Type="Date">2019 Feb 14</Item>
+	<Item Name="Source" Type="String">Knee</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Hurley ET</Item>
+		<Item Name="Author" Type="String">Gianakos AL</Item>
+		<Item Name="Author" Type="String">Anil U</Item>
+		<Item Name="Author" Type="String">Strauss EJ</Item>
+		<Item Name="Author" Type="String">Gonzalez-Lomas G</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Gonzalez-Lomas G</Item>
+	<Item Name="Title" Type="String">No difference in outcomes between femoral fixation methods with hamstring autograft in anterior cruciate ligament reconstruction - A network meta-analysis.</Item>
+	<Item Name="Volume" Type="String">26</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">292-301</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9430798</Item>
+	<Item Name="ISSN" Type="String">0968-0160</Item>
+	<Item Name="ESSN" Type="String">1873-5800</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+		<Item Name="PubType" Type="String">Network Meta-Analysis</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">30773253</Item>
+		<Item Name="doi" Type="String">10.1016/j.knee.2019.01.015</Item>
+		<Item Name="pii" Type="String">S0968-0160(18)30338-7</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.knee.2019.01.015</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2018/05/20 00:00</Item>
+		<Item Name="revised" Type="Date">2018/10/08 00:00</Item>
+		<Item Name="accepted" Type="Date">2019/01/23 00:00</Item>
+		<Item Name="pubmed" Type="Date">2019/02/19 06:00</Item>
+		<Item Name="medline" Type="Date">2019/07/16 06:00</Item>
+		<Item Name="entrez" Type="Date">2019/02/19 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">The Knee</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.knee.2019.01.015</Item>
+	<Item Name="SO" Type="String">2019 Mar;26(2):292-301</Item>
+</DocSum>
+
+</eSummaryResult>

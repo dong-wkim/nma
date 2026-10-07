@@ -1,0 +1,29 @@
+---
+version: 1
+site:
+project:
+  title:
+  subtitle:
+  short_title:
+  description:
+  exports:
+  downloads:
+  label:
+  tags:
+  thumbnail:
+  banner:
+  parts:
+  bibliography:
+  date:
+  keywords:
+  authors:
+  reviewers:
+  editors:
+  affiliations:
+  doi:
+  arxiv:
+  pmid:
+  pmcid:
+  open_access:
+  license:
+---

@@ -1,0 +1,28 @@
+version: 1
+project:
+  title: What is the optimal graft choice for primary anterior cruciate ligament reconstruction surgery?
+  subtitle: A systematic review and network meta-analysis
+  github: https://github.com/d-wkim/phd
+  toc:
+    - file: index.md
+      title: What is the optimal graft choice for primary anterior cruciate ligament reconstruction surgery?
+    - file: systematic_review/index.md
+      title: Systematic Review
+      children:
+        - file: ./systematic_review/protocol.md
+        - file: ./systematic_review/search_strategy.md
+        - file: ./systematic_review/search.md
+        - file: ./systematic_review/deduplication.md
+        - file: ./systematic_review/screening.md
+    - file: data_collection/index.md
+      title: Data Collection
+    - file: network_meta-analysis/index.md
+      title: Network Meta-Analysis
+    - file: manuscript/index.md
+      title: Manuscript
+    
+site:
+  template: book-theme
+
+# extends: 
+#   - ./config/toc.yml
